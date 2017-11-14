@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Cook Book Nook (Sinatra Assessment Project) "
-date:       2017-11-14 22:52:33 +0000
+date:       2017-11-14 17:52:34 -0500
 permalink:  cook_book_nook_sinatra_assessment_project
 ---
 
@@ -20,4 +20,4 @@ Users can edit or delete recipes; however, these actions are obviously only avai
 
 This is a pretty simple app, and one can think of lots of other features that can be added here, for instance, add recipes to favourites, rate them, create a separate section of the website for drinks and cocktails, etc. I hope to add these features as I return to this project in the future.
 
-Check this project on GitHub: https://github.com/nothingisfunny/sinatra-recipe-book
+Check this project on GitHub: [https://github.com/nothingisfunny/sinatra-recipe-book](http://)
