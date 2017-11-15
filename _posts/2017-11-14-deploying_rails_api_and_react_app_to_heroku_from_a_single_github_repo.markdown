@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Deploying Rails API and React App to Heroku from a single GitHub repo"
-date:       2017-11-15 00:51:14 +0000
+date:       2017-11-14 19:51:15 -0500
 permalink:  deploying_rails_api_and_react_app_to_heroku_from_a_single_github_repo
 ---
 
